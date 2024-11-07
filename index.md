@@ -25,3 +25,6 @@ var myVar = "Hello, world!";
 console.log(myVar);
 
 ###### Added examples of bash and JavaScript code blocks
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
